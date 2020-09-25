@@ -36,3 +36,7 @@ Note: You can install the libraries from command line or by using Jupyter notebo
 ``` 
 !pip install tensorflow  
 ```
+
+<p align="center">
+  <img src="https://github.com/abhijitjadhav1998/Neural_Style_transfer_using_VGG19/blob/master/assets/stylized-image.png" />
+</p>
