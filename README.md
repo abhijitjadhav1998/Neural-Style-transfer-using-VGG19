@@ -40,3 +40,6 @@ Note: You can install the libraries from command line or by using Jupyter notebo
 <p align="center">
   <img src="https://github.com/abhijitjadhav1998/Neural_Style_transfer_using_VGG19/blob/master/assets/stylized-image.png" />
 </p>
+<br/>
+Dont foget to Star⭐ this repo 😉 and Follow me on<a href="https://github.com/abhijitjadhav1998/">  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
